@@ -4,7 +4,7 @@ namespace Kalkulator1
 {
 	internal static class Program
 	{
-		[System.STAThread]
+        [System.STAThread]
 		private static void Main()
 		{
 			Application.EnableVisualStyles();
